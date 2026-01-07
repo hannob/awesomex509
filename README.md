@@ -4,17 +4,19 @@ Uses of X.509 Certificates
 X.509 Certificates are primarily known due to their use in TLS/SSL, but there are plenty
 of other places where they play a role.
 
-|         Use case          |             What              |                                Background / Link(s)                                 |
-|---------------------------|-------------------------------|-------------------------------------------------------------------------------------|
-| WebPKI/HTTPS & other TLS  | Internet Transport Encryption | https://en.wikipedia.org/wiki/Transport_Layer_Security                              |
-| S/MIME, PKCS #7, CMS      | E-Mail Encryption             | https://en.wikipedia.org/wiki/S/MIME                                                |
-| IPsec                     | VPN                           | https://datatracker.ietf.org/doc/html/rfc4945                                       |
-| RPKI | BGP Routing | https://en.wikipedia.org/wiki/Resource_Public_Key_Infrastructure |
-| pkixssh | SSH with X.509 auth | https://gitlab.com/secsh/pkixssh |
-| UEFI                      | BIOS                          | https://en.wikipedia.org/wiki/UEFI                                                  |
-| Pasports / ICAO standards | Passports / Travel Documents  | https://www.icao.int/sites/default/files/publications/DocSeries/9303_p1_cons_en.pdf |
-| Vaccine Certificates / WHO standards | Covid-19 vaccination status | https://worldhealthorganization.github.io/ddcc/ |
-| Peppol                    | Electronic Invoice Delivery   | https://peppol.org/wp-content/uploads/2022/04/PEPPOL_Certificates_Change_V1.2.pdf   |
+|               Use case               |             What              |                                Background / Link(s)                                 |
+|--------------------------------------|-------------------------------|-------------------------------------------------------------------------------------|
+| WebPKI/HTTPS & other TLS             | Internet Transport Encryption | https://en.wikipedia.org/wiki/Transport_Layer_Security                              |
+| S/MIME, PKCS #7, CMS                 | E-Mail Encryption             | https://en.wikipedia.org/wiki/S/MIME                                                |
+| IPsec                                | VPN                           | https://datatracker.ietf.org/doc/html/rfc4945                                       |
+| RPKI                                 | BGP Routing                   | https://en.wikipedia.org/wiki/Resource_Public_Key_Infrastructure                    |
+| pkixssh                              | SSH with X.509 auth           | https://gitlab.com/secsh/pkixssh                                                    |
+| UEFI                                 | BIOS                          | https://en.wikipedia.org/wiki/UEFI                                                  |
+| Pasports / ICAO standards            | Passports / Travel Documents  | https://www.icao.int/sites/default/files/publications/DocSeries/9303_p1_cons_en.pdf |
+| Vaccine Certificates / WHO standards | Covid-19 vaccination status   | https://worldhealthorganization.github.io/ddcc/                                     |
+| UIC / VDV barcodes                   | Train Tickets                 | https://media.ccc.de/v/38c3-what-s-inside-my-train-ticket                           |
+| ELSTER                               | Login for German tax system   | https://www.elster.de/eportal/login/softpse                                         |
+| Peppol                               | Electronic Invoice Delivery   | https://peppol.org/wp-content/uploads/2022/04/PEPPOL_Certificates_Change_V1.2.pdf   |
 
 Know other use cases of X.509 certificates? Please open a pull request or an issue.
 
