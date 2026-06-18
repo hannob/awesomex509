@@ -23,6 +23,8 @@ of other places where they play a role.
 | Firefox Extension Signing            | Code Signatures for Add-ons   | https://wiki.mozilla.org/Add-ons/Extension_Signing                                  |
 | PAdES                                | PDF Signatures                | https://en.wikipedia.org/wiki/PAdES                                                 |
 | xmldsig                              | XML Signatures                | https://www.w3.org/TR/xmldsig-core/                                                 |
+| C2PA                                 | Digital content               | https://c2pa.org                                                                    |
+| X9                                   | Financial institutions        | https://x9.org/pki-home/                                                            |
 
 Know other use cases of X.509 certificates? Please open a pull request or an issue.
 
